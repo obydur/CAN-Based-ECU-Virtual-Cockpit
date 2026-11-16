@@ -2,6 +2,7 @@
 
 ## 1. Introduction
 
+
 ## 2. ADC Fundamentals
 
 ## 3. ADC Configuration
