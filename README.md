@@ -115,15 +115,20 @@ The transmission functions use CAN message buffers in the ECU.
 ├── pin_muxing.pdf
 └── unit2-question .pdf
 ```
+
 ## Technical Documentation
 
-Detailed documentation of the main ECU modules:
+Detailed technical documentation of the ECU modules:
 
 - [CAN Communication](docs/can-communication.md)
 - [ADC – Analog-to-Digital Converter](docs/adc.md)
 - [GPIO – General-Purpose Input/Output](docs/gpio.md)
 - [PIT – Periodic Interrupt Timer](docs/pit.md)
-- [System Architecture](docs/README.md)
+
+### System Architecture
+
+![CAN-Based ECU Virtual Cockpit Architecture](docs/CAN-Based%20ECU%20Virtual%20Cockpit%20Architecture.png)
+
 ## Learning Outcomes
 
 Through this project, I worked with:
